@@ -18,3 +18,4 @@ print(YEAR)
 print("First Name:\t",firstname,"Middle Name:\t",MiddleName,"Lastname:\t",Lastname,"""Invention:\t""",Invention,"Year:\t",YEAR)
 print("Firstname:%s"%(firstname),"Year:%i"%(YEAR))
 
+print(firstname,type(firstname),id(firstname))
